@@ -27,14 +27,14 @@ html{
     background: #555;
 }
 
-.infoArea {
+infoArea {
     max-height: 70%;
     max-width: 80%;
     border: 0;
     border-radius: 30px;
 }
 
-.infoRect {
+infoRect {
     max-height: 65%;
     max-width: 75%;
     border: 1px;
