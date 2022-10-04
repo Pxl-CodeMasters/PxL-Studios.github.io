@@ -27,15 +27,17 @@ html{
     background: #555;
 }
 
-#infoArea {
+.infoArea {
     max-height: 70%;
     max-width: 80%;
     border: 0;
     border-radius: 30px;
 }
-#infoArea {
+
+.infoRect {
     max-height: 65%;
     max-width: 75%;
     border: 1px;
     border-radius: 30px;
+    background-color: black;
 }
