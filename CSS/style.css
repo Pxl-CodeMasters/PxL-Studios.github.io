@@ -27,15 +27,15 @@ html{
     background: #555;
 }
 
-.logo {
-    color: #fff;
-    font-size: 35px;
-    font-weight: 600;
+#infoArea {
+    max-height: 70%;
+    max-width: 80%;
+    border: 0;
+    border-radius: 30px;
 }
-.logo a span{
-    color: #5a03fc;
-    transition: all 0.3s ease;
-}
-.logo a span{
-    color: #fff;
+#infoArea {
+    max-height: 65%;
+    max-width: 75%;
+    border: 1px;
+    border-radius: 30px;
 }
